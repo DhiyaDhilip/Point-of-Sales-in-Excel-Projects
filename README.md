@@ -1,11 +1,11 @@
 # Point-of-Sales-in-Excel-Projects
 The Point of Sale (POS) system in Excel automates billing using formulas. TODAY() and NOW() show date and time, VLOOKUP fetches product prices, and SUM calculates totals. It applies 10% discount and 20% GST to get the final grand total. This system saves time, reduces errors, and generates accurate tax invoices.
-
+---
 
 ##  Excel Project: POS (Point of Sale) System
 
 <img width="482" height="707" alt="image" src="https://github.com/user-attachments/assets/80c4f8b4-9055-4eb7-840b-8d83eaef694d" /><img width="486" height="616" alt="image" src="https://github.com/user-attachments/assets/83c157e3-3b53-43cb-beb9-e71a46872855" />
-
+---
 ###  Key Contents & Functional Modules:
 
 ####  Sales Entry Sheet
